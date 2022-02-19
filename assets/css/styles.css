@@ -1,0 +1,22 @@
+.bgimage{
+    background-image: url('../images/IMG_1001.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+}
+
+.card img{
+    max-width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    background-color: pink;
+    padding: 30px 0;
+}
+
+.footer h5{
+    text-align: center;
+}
